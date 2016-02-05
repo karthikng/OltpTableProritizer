@@ -1,7 +1,7 @@
 package dev.oltp.prioritizer.common;
 
 public enum CommonConstants {
-  PROGRAM_DETAILS_FILES("resource/program.properties");
+  PROGRAM_DETAILS_FILES("resource/app.properties");
 
   private String value;
 
